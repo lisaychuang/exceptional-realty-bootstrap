@@ -1,4 +1,4 @@
-#### Flatiron School project
+## Flatiron School project
 
 ### Using Twitter Bootstrap
 
